@@ -1,0 +1,10 @@
+streamlit
+wikipedia
+textblob
+nltk
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+wordcloud
